@@ -72,6 +72,9 @@ pessoa = Conta()
 while True:
     pessoa.menu()
 
+
+# https://www.youtube.com/watch?v=UnfmxnFpfdM
+
 # print(pessoa.cliente)
 # print(pessoa.numero_conta)
 # print(pessoa.saldo)
